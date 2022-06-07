@@ -1,6 +1,6 @@
 # SKYTECH PRISM
 
-### My Live Site Link: [Skytech Prism](https://pc-house.netlify.app/)
+### My Live Site Link: [Skytech Prism](https://skytech-prism.netlify.app/)
 
 ## HOME
 
